@@ -1,2 +1,2 @@
 # furniturewebapp
- A personal project of Furniture Web App Company Profile
+ A personal project of Furniture web app company profile
